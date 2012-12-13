@@ -15,7 +15,10 @@
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #
 
-This version of vnc is made to fit to vascular1DFlow_v0.2.
+Vascular Network Creator - vnc - is a shell-based tool to create 
+vascular network descriptions for the simuation tool Vascular1DFlow.
+
+This version of vnc is made to fit to the version vascular1DFlow_v0.2.
 
 To run vnc properly the two frameworks xdot and pydot are required.
 
